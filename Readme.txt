@@ -1,6 +1,8 @@
 Network Traffic Classification using Random Forest Model
 The integration of Machine-Learning approaches with the Network Traffic Classification and Packet Analysis would ensure optimizing network management.
 
+Technologies & skills: Wireshark, Python, NumPy, Pandas, Random Forest, MS Excel
+
 Datasets:
 
 1. Dataset 1 - from Open source - Dataset.csv
